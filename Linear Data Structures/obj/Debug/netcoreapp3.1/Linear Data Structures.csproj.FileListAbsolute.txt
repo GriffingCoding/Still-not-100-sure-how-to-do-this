@@ -1,0 +1,13 @@
+C:\Users\dagri\OneDrive\Desktop\Programming II\Wk11A\Linear Data Structures\bin\Debug\netcoreapp3.1\Linear Data Structures.exe
+C:\Users\dagri\OneDrive\Desktop\Programming II\Wk11A\Linear Data Structures\bin\Debug\netcoreapp3.1\Linear Data Structures.deps.json
+C:\Users\dagri\OneDrive\Desktop\Programming II\Wk11A\Linear Data Structures\bin\Debug\netcoreapp3.1\Linear Data Structures.runtimeconfig.json
+C:\Users\dagri\OneDrive\Desktop\Programming II\Wk11A\Linear Data Structures\bin\Debug\netcoreapp3.1\Linear Data Structures.runtimeconfig.dev.json
+C:\Users\dagri\OneDrive\Desktop\Programming II\Wk11A\Linear Data Structures\bin\Debug\netcoreapp3.1\Linear Data Structures.dll
+C:\Users\dagri\OneDrive\Desktop\Programming II\Wk11A\Linear Data Structures\bin\Debug\netcoreapp3.1\Linear Data Structures.pdb
+C:\Users\dagri\OneDrive\Desktop\Programming II\Wk11A\Linear Data Structures\obj\Debug\netcoreapp3.1\Linear Data Structures.csprojAssemblyReference.cache
+C:\Users\dagri\OneDrive\Desktop\Programming II\Wk11A\Linear Data Structures\obj\Debug\netcoreapp3.1\Linear Data Structures.AssemblyInfoInputs.cache
+C:\Users\dagri\OneDrive\Desktop\Programming II\Wk11A\Linear Data Structures\obj\Debug\netcoreapp3.1\Linear Data Structures.AssemblyInfo.cs
+C:\Users\dagri\OneDrive\Desktop\Programming II\Wk11A\Linear Data Structures\obj\Debug\netcoreapp3.1\Linear Data Structures.csproj.CoreCompileInputs.cache
+C:\Users\dagri\OneDrive\Desktop\Programming II\Wk11A\Linear Data Structures\obj\Debug\netcoreapp3.1\Linear Data Structures.dll
+C:\Users\dagri\OneDrive\Desktop\Programming II\Wk11A\Linear Data Structures\obj\Debug\netcoreapp3.1\Linear Data Structures.pdb
+C:\Users\dagri\OneDrive\Desktop\Programming II\Wk11A\Linear Data Structures\obj\Debug\netcoreapp3.1\Linear Data Structures.genruntimeconfig.cache

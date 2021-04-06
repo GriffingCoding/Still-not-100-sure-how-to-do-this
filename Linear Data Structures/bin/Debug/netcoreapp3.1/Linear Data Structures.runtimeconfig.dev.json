@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\dagri\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\dagri\\.nuget\\packages"
+    ]
+  }
+}
